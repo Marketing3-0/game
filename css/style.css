@@ -1,0 +1,10 @@
+.icon-upload {
+    background-image: url("./images/upload.png");
+    z-index: 999;
+}
+.ui-btn-icon-bgGreen:after{
+    background-color: rgba(7, 172, 20, 0.74);
+}
+.ui-btn-icon-bgRed:after{
+    background-color: rgba(230, 13, 13, 0.74);
+}
